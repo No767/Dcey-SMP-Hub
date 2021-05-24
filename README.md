@@ -3,4 +3,4 @@
 
 
 # to do list
-[] add in this readme.md
+[ ] add in this readme.md
