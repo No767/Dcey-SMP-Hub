@@ -3,4 +3,5 @@
 
 
 # to do list
-[ ] add in this readme.md
+*[ ] add in this readme.md
+*[ ] Add in the rest of the js scripts
