@@ -1,4 +1,6 @@
 # Dcey-SMP-Hub
+<img src="Dcey SMP Logo V4 Release.png">
+
 [![Jekyll site CI](https://github.com/No767/Dcey-SMP-Hub/actions/workflows/jekyll.yml/badge.svg?branch=main)](https://github.com/No767/Dcey-SMP-Hub/actions/workflows/jekyll.yml)
 
 
