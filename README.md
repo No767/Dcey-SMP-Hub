@@ -6,4 +6,8 @@
 
 Source code for the Dcey SMP Maps page
 
+# License
+This project is licensed under the [MIT](https://github.com/No767/Dcey-SMP-Hub/blob/master/LICENSE) License. 
 
+# Art Assets
+All assets 
