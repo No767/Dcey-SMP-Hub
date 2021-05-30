@@ -6,6 +6,4 @@
 
 Source code for the Dcey SMP Maps page
 
-# info
-These are the source code files for the html hub site. This is not hosted on Jekyll or GitHub pages,
-It's hosted on a separate web server
+
