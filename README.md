@@ -1,7 +1,7 @@
 # Dcey-SMP-Hub
 <img src="Dcey SMP Logo V4 Release.png">
 
-[![Jekyll site CI](https://github.com/No767/Dcey-SMP-Hub/actions/workflows/jekyll.yml/badge.svg?branch=main)](https://github.com/No767/Dcey-SMP-Hub/actions/workflows/jekyll.yml)
+[![Jekyll site CI](https://github.com/No767/Dcey-SMP-Hub/actions/workflows/jekyll.yml/badge.svg?branch=main)](https://github.com/No767/Dcey-SMP-Hub/actions/workflows/jekyll.yml) <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/No767/Dcey-SMP-Hub/Jekyll%20site%20CI"> <img alt="GitHub" src="https://img.shields.io/github/license/No767/Dcey-SMP-Hub">
 
 
 # to do list
