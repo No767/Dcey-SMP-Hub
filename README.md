@@ -13,3 +13,10 @@ This project is licensed under the [MIT](https://github.com/No767/Dcey-SMP-Hub/b
 
 # Art Assets
 See [Art Assets](https://github.com/No767/Dcey-SMP-Hub/blob/master/Art%20Assets.md)
+
+# Building
+This project is self-hosted on a Windows IIS Web Server. This only acts like the source code repo for it. 
+
+For now, either clone this repo and take the hub folder and place it somewhere..
+
+Will be supporting Yarn and NPM soon (if i can get it to work that is....)
