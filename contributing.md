@@ -7,7 +7,6 @@ You are free to contribute into this repo. The Code of Conduct still appiles her
 ### Git Commit Messages
 
 - Describe what is the change (branch change, clean up code, etc)
-- Add a label. If one of the labels doesn't fit what the commit is, use the misc label
 - If it's updating the other files (that dont have to go through the CI), add a [CI-SKIP] label in the front of the commit message
 
 ### Issues
