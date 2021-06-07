@@ -19,6 +19,7 @@ You are free to contribute into this repo. The Code of Conduct still appiles her
 - Describe the change (issue fix, clean up code, etc)
 - When doing a pull request, make sure the pull request goes into the dev branch
 - And dont delete the dev branch
+- List the branch, and the commit number starting from the most recent commit
 
 ## Code Styleguides
 Please make sure that the code is readable and clean. for example, 
