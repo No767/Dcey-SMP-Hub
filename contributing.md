@@ -1,8 +1,7 @@
 # Contributing
 You are free to contribute into this repo. The Code of Conduct still appiles here, so make sure to read that first. 
 
-## How can I contribute? 
-### Styleguides
+## Styleguides
 
 ### Git Commit Messages
 
