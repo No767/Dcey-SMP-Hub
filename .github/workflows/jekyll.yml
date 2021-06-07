@@ -2,12 +2,12 @@ name: Jekyll site CI
 
 on:
   push:
-    branches: 
+    branches:
     - master
     - dev
-
-  pull_request:
-    branches: 
+   
+  pull_request: 
+    branches:
     - master
     - dev
 

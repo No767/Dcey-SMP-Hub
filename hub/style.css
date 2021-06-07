@@ -1,7 +1,14 @@
 body {
-  background-image: url('bow down.png'); width:fit-content; 
+  background-image: url('img/backV2.jpg'); width:fit-content; 
 }
 
+.navbar{
+  height: 65px; 
+  }
+
+.navbarcolor {
+  color:rgb(145, 211, 255)
+}
 .centerImage
 {
  text-align:center;
