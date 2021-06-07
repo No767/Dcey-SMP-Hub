@@ -5,9 +5,9 @@ on:
     branches:
     - master
     - dev
-    
-  pull_request:
-    branches: 
+   
+  pull_requests: 
+    branches:
     - master
     - dev
 
