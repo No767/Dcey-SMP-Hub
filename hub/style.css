@@ -2,13 +2,37 @@ body {
   background-image: url('img/backV2.jpg'); width:fit-content; 
 }
 
+.centernav {
+  margin-left: auto;
+}
 .navbar{
   height: 65px; 
   }
 
+  .navbar-brand
+  {
+      position: absolute;
+      width: 100%;
+      left: 0;
+      text-align: center;
+      margin:0 auto;
+  }
+  .navbar-toggle {
+      z-index:3;
+  }
+
+  .navbarcontent {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align:right;
+    margin: 0 auto;
+  }
 .navbarcolor {
   color:rgb(145, 211, 255)
 }
+
+
 .centerImage
 {
  text-align:center;
