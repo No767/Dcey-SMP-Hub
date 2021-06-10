@@ -13,6 +13,10 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Live web server config files (part of the live sevrer)
+.config
+web.config
+
 # Mono auto generated files
 mono_crash.*
 
