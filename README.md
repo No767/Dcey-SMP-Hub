@@ -20,3 +20,5 @@ See [Contributing](https://github.com/No767/Dcey-SMP-Hub/blob/master/contributin
 This project is self-hosted on a Windows IIS Web Server. This only acts like the source code repo for it. 
 
 For now, just clone this repo and make prs as needed
+
+also read the art assets page for more detail
