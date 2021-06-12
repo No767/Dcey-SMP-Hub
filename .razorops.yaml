@@ -1,0 +1,8 @@
+  tasks:
+    build-and-deploy:
+      steps:
+      - checkout
+      # commands to build jekyll website
+      - commands:
+        - bundle install
+        - JEKYLL_ENV=production bundle exec jekyll build
