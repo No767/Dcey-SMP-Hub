@@ -4,7 +4,7 @@
 
 [![Jekyll site CI](https://github.com/No767/Dcey-SMP-Hub/actions/workflows/jekyll.yml/badge.svg?branch=main)](https://github.com/No767/Dcey-SMP-Hub/actions/workflows/jekyll.yml) [![buddy pipeline](https://app.buddy.works/ctg102b/dcey-smp-hub/pipelines/pipeline/332341/badge.svg?token=d3541d3597e44b90d7a4295ba37cd7926c70f92ee801544bd38436f66a80c171 "buddy pipeline")](https://app.buddy.works/ctg102b/dcey-smp-hub/pipelines/pipeline/332341) <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/No767/Dcey-SMP-Hub?include_prereleases"> <img alt="GitHub" src="https://img.shields.io/github/license/No767/Dcey-SMP-Hub"> <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fmaps.dcey.net">
   
-  <figure><img src="https://buddy.works" /><figcaption>Automated by Buddy](https://assets.buddy.works/automated-dark.svg)</figcaption></figure>
+  [!]<figure><img src="https://buddy.works" /><figcaption>Automated by Buddy](https://assets.buddy.works/automated-dark.svg)</figcaption></figure>
 
 
 Source code for the Dcey SMP Maps page
