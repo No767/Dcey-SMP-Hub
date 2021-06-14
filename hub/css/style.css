@@ -1,19 +1,10 @@
 
-.centerText
-{
- text-align: center;
- font-family: 'Courier New', Courier, monospace;
- position: relative;
- bottom: -50px;
- left: 675px;
-}
-
 .maintext {
   font-family: 'Courier New', Courier, monospace;
   color: black;
-  padding: 10rem 0;
+  padding-top: 6rem;
   text-align: center;
-  font-size: 36px;
+  font-size:56px;
 }
 
 .secondtext {
@@ -21,6 +12,10 @@
   color: black;
   padding: 0rem 0;
   text-align: center;
-  font-size: 18px;
+  font-size: 32px;
 }
 
+.background {
+    background-repeat: no-repeat;
+    background-image: url('img/backV2.jpg')
+}
