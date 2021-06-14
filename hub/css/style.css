@@ -1,0 +1,26 @@
+
+.centerText
+{
+ text-align: center;
+ font-family: 'Courier New', Courier, monospace;
+ position: relative;
+ bottom: -50px;
+ left: 675px;
+}
+
+.maintext {
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+  padding: 10rem 0;
+  text-align: center;
+  font-size: 36px;
+}
+
+.secondtext {
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+  padding: 0rem 0;
+  text-align: center;
+  font-size: 18px;
+}
+
