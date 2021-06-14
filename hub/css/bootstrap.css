@@ -19,3 +19,13 @@
   .nav-link-color {
     color: #ff64d8;
   }
+
+  .button-background {
+    background-color: #aba1ff;
+    font-family: 'Courier New'
+
+  }
+
+  .button-color {
+    color: #ffffff
+  }
