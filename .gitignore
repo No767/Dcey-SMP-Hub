@@ -17,6 +17,10 @@
 .config
 web.config
 
+# JetBrains IDE Temp Files
+
+.idea 
+
 # Mono auto generated files
 mono_crash.*
 
