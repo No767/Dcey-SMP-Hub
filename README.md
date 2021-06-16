@@ -28,7 +28,8 @@ and if you need to upgrade some of the dependencies, use `yarn up`
 
 - Fontawesome (5.15.3)
 - PopperJS (2.9.2)
-- Sass: (1.35.1) 
+- Sass: (1.35.1)
+- Bootstrap Icons (1.5.0)
 
 Make sure to load these in using `yarn install` 
 
