@@ -18,8 +18,18 @@ See [Art Assets](https://github.com/No767/Dcey-SMP-Hub/blob/master/Art%20Assets.
 # Contributing 
 See [Contributing](https://github.com/No767/Dcey-SMP-Hub/blob/master/contributing.md)
 # Building
-This project is self-hosted on a Windows IIS Web Server. This only acts like the source code repo for it. 
+Via [yarn](https://yarnpkg.com/)
 
-For now, just clone this repo and make prs as needed
+`yarn install` 
 
-also read the art assets page for more detail
+and if you need to upgrade some of the dependencies, use `yarn up`
+
+# Dependencies
+
+- Fontawesome (5.15.3)
+- PopperJS (2.9.2)
+- Sass: (1.35.1) 
+
+Make sure to load these in using `yarn install` 
+
+
