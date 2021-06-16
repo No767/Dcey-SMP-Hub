@@ -7,6 +7,7 @@
   "author": "No767 <ctg102b@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.3"
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "sass": "^1.35.1"
   }
 }
