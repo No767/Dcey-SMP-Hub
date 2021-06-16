@@ -6,7 +6,7 @@ You are free to contribute into this repo. The Code of Conduct still appiles her
 ### Git Commit Messages
 
 - Describe what is the change (branch change, clean up code, etc)
-- If it's updating the other files (that dont have to go through the CI), add a [ci skip] label in the front of the commit message
+- If it's updating the other files (that dont have to go through the CI), add a [ci skip] label in the front of the commit message (not sure if buddy ci will catch that or not...)
 
 ### Issues
 
