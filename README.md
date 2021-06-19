@@ -30,6 +30,7 @@ and if you need to upgrade some of the dependencies, use `yarn up`
 - PopperJS (2.9.2)
 - Sass: (1.35.1)
 - Bootstrap Icons (1.5.0)
+- Bootstrap (5.0.1) (not loaded within the package due to it breaking all the time)
 
 Make sure to load these in using `yarn install` 
 
