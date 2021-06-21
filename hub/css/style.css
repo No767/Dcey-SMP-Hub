@@ -48,6 +48,9 @@
 }
 
 .jumbotron {
-  background-image: url("../img/backV2.jpg");
-  background-size: cover;
+  background-color : #aba1ff;
+  background-position: bottom;
+
 }
+
+
