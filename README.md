@@ -34,6 +34,5 @@ and if you need to upgrade some of the dependencies, use `yarn up`
 
 *The reason why is that bootstrap doesn't load within the env for some odd reason. make sure to still copy both cdn links and PopperJS's cdn if it breaks again
 
-Make sure to load these in using `yarn install` 
 
 
