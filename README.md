@@ -33,6 +33,8 @@ and if you need to upgrade some of the dependencies, use `yarn up`
 - *Bootstrap (5.0.1) 
 
 *The reason why is that bootstrap doesn't load within the env for some odd reason. make sure to still copy both cdn links and PopperJS's cdn if it breaks again
+  
+ (dependabot will automatically track and update the dependencies if needed)
 
 
 
