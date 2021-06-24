@@ -36,5 +36,9 @@ and if you need to upgrade some of the dependencies, use `yarn up`
   
  (dependabot will automatically track and update the dependencies if needed)
 
+# To do list
+
+- [ ] Build Jenkins Pipeline for this repo
+
 
 
