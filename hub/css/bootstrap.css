@@ -1,5 +1,7 @@
 .nav-pills li {
     margin-left: 15px; 
+    width: 150px;
+    text-align: center;
 } 
 
 .nav-pills a {
@@ -33,3 +35,4 @@
   .narbar-grey {
     background-color: black;
   }
+

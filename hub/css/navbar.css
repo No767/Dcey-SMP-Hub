@@ -1,29 +1,10 @@
-.centernav {
-    margin-left: auto;
-  }
-  .navbar{
-    height: 65px; 
-    }
-  
-    .navbar-brand
-    {
-        position: absolute;
-        width: 100%;
-        left: 0;
-        text-align: center;
-        margin:0 auto;
-    }
 
   .navbarcolor {
     color:rgb(145, 211, 255)
   }
 
-  .buttons {
-    padding: 3rem 0;
-  }
 
   .footer{
     height: 63px;
     
   }
-
