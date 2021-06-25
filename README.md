@@ -22,7 +22,6 @@ Via [yarn](https://yarnpkg.com/)
 
 `yarn install` 
 
-and if you need to upgrade some of the dependencies, use `yarn up`
 
 # Dependencies
 
@@ -30,7 +29,11 @@ and if you need to upgrade some of the dependencies, use `yarn up`
 - PopperJS (2.9.2)
 - Sass: (1.35.1)
 - Bootstrap Icons (1.5.0)
+- Bootstrap (5.0.1) 
 
-Make sure to load these in using `yarn install` 
+# To do list
+
+- [ ] Build Jenkins Pipeline for this repo
+
 
 
