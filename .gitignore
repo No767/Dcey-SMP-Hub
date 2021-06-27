@@ -17,6 +17,9 @@
 .config
 web.config
 
+# VSCode's setting.jsom (istg this has been annoying me for so long)
+settings.json
+
 # JetBrains IDE Temp Files
 
 .idea 
