@@ -28,7 +28,7 @@ Via [yarn](https://yarnpkg.com/)
 - PopperJS (2.9.2)
 - Sass: (1.35.1)
 - Bootstrap Icons (1.5.0)
-- Bootstrap (5.0.1) 
+- Bootstrap (5.0.2) 
 
 # To do list
 
