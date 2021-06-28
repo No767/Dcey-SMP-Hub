@@ -36,3 +36,25 @@
     background-color: black;
   }
 
+  
+  .more-space {
+    height: 842.38px;
+  }
+
+  .jumbotron {
+    display: flex;
+    background-image: linear-gradient(125deg, #9499ff, #ed94ff);
+  }
+
+  .jumbotron2 {
+    background-color: grey;
+    display: flex;
+  }
+
+  .more-is-needed {
+    height: 25rem;
+  }
+
+  .font {
+    font-size: 28px;
+  }
