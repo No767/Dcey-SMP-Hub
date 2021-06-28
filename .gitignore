@@ -18,13 +18,13 @@
 web.config
 
 # VSCode's setting.jsom (istg this has been annoying me for so long)
-settings.json
+*settings.json
 
 # JetBrains IDE Temp Files
 .idea 
 
 # VSCode's temp folder
-.vscode
+*.vscode
 # Mono auto generated files
 mono_crash.*
 
