@@ -21,9 +21,10 @@ web.config
 settings.json
 
 # JetBrains IDE Temp Files
-
 .idea 
 
+# VSCode's temp folder
+.vscode
 # Mono auto generated files
 mono_crash.*
 
