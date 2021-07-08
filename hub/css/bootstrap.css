@@ -1,6 +1,6 @@
 .nav-pills li {
-    margin-left: 15px; 
-    width: 150px;
+    padding-left: 15px;
+    width: 220px;
     text-align: center;
 } 
 
@@ -27,7 +27,15 @@
     font-family: 'Courier New'
 
   }
+   .nav-item > li {
+    text-align: center;
+    color: #aba1ff;
+   }
 
+   .nav-item > li > a {
+    text-align: center;
+    color: #aba1ff;
+   }
   .button-color {
     color: #ffffff
   }
@@ -80,10 +88,10 @@
     background-color: #9499ff
   }
 
-  .btn-primary {
+  .btn-outline-info {
     background-color: #9499ff
   }
 
-  .btn-primary > hover {
-    background-color: #90ffe3 !important
+  .btn-outline-info > hover {
+    background-color: #ffb3ee !important
   }
