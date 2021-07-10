@@ -46,7 +46,7 @@
 
   
   .more-space {
-    height: 65rem;
+    height: 70rem;
   }
 
   .jumbotron {
@@ -100,3 +100,7 @@
     background-color: #d7cfff;
     
   }
+
+.needed-padding {
+  padding-top: 35rem;
+}
