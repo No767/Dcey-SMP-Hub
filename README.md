@@ -32,7 +32,8 @@ Via [yarn](https://yarnpkg.com/)
 
 # To do list
 
-- [ ] Build Jenkins Pipeline for this repo
+- [x] Build Jenkins Pipeline for this repo
+- [ ] Convert all CSS Files to Sass
 
 
 
