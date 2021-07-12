@@ -26,14 +26,14 @@ Via [yarn](https://yarnpkg.com/)
 
 - Fontawesome (5.15.3)
 - PopperJS (2.9.2)
-- Sass: (1.35.1)
+- Sass: (1.35.2)
 - Bootstrap Icons (1.5.0)
 - Bootstrap (5.0.2) 
 
 # To do list
 
 - [x] Build Jenkins Pipeline for this repo
-- [ ] Convert all CSS Files to Sass
+- [ ] Convert all CSS Files to Sass (In the process of)
 
 
 
