@@ -7,7 +7,7 @@
   "author": "No767 <ctg102b@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.3",
+    "@fortawesome/fontawesome-free": "^5.15.4",
     "@popperjs/core": "^2.9.3",
     "bootstrap": "^5.0.2",
     "bootstrap-icons": "^1.5.0",
