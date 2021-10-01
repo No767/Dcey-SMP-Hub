@@ -2,7 +2,7 @@
 <div align=center>
 <img src="assets/Dcey SMP Logo V4 Release (256 Resize).png">
 
-<img alt="Jenkins" src="https://img.shields.io/jenkins/build?jobUrl=http%3A%2F%2Fdcey.net%3A8080%2Fjob%2FDcey-SMP-Hub%2F&label=Jenkins%20CI&logo=jenkins&logoColor=white"> <a href="https://www.codefactor.io/repository/github/no767/dcey-smp-hub"><img src="https://www.codefactor.io/repository/github/no767/dcey-smp-hub/badge" alt="CodeFactor" /></a> <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/No767/Dcey-SMP-Hub?include_prereleases"> <img alt="GitHub" src="https://img.shields.io/github/license/No767/Dcey-SMP-Hub"> 
+<img alt="Jenkins" src="https://img.shields.io/jenkins/build?jobUrl=http%3A%2F%2Fdcey.net%3A8080%2Fjob%2FDcey-SMP-Hub%2F&label=Jenkins%20CI&logo=jenkins&logoColor=white"> <a href="https://www.codefactor.io/repository/github/no767/dcey-smp-hub"><img src="https://www.codefactor.io/repository/github/no767/dcey-smp-hub/badge" alt="CodeFactor" /></a> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/No767/Dcey-SMP-Hub?label=Release&logo=github"> <img alt="GitHub" src="https://img.shields.io/github/license/No767/Dcey-SMP-Hub"> <img alt="GitHub" src="https://img.shields.io/github/license/No767/Dcey-SMP-Hub?label=License&logo=github">
 
 Source code for the Dcey SMP Maps page
 
@@ -21,11 +21,3 @@ See [Contributing](https://github.com/No767/Dcey-SMP-Hub/blob/master/contributin
 Via [yarn](https://yarnpkg.com/)
 
 `yarn install` 
-
-# To do list
-
-- [x] Build Jenkins Pipeline for this repo
-- [ ] Convert all CSS Files to Sass
-
-
-
