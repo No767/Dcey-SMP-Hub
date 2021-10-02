@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "8f7d6d12a062e7b38707b250f7ac77765b1167dd6b7a0ed337b90b84924f13af"
+            "sha256": "f86ad4330e921fb2391f9126d08b5878da89b519d319412e9d17ab38e099cddc"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,13 @@
         ]
     },
     "default": {
+        "cssbeautifier": {
+            "hashes": [
+                "sha256:20be1f47f20762db32c78124ff44d351ba13894fa8e7cfe34014b672f9f6ecb2"
+            ],
+            "index": "pypi",
+            "version": "==1.14.0"
+        },
         "editorconfig": {
             "hashes": [
                 "sha256:57f8ce78afcba15c8b18d46b5170848c88d56fd38f05c2ec60dbbfcb8996e89e",
@@ -35,7 +42,7 @@
                 "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926",
                 "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==1.16.0"
         }
     },
