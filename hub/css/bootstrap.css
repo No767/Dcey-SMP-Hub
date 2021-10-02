@@ -5,9 +5,8 @@
 } 
 
 .nav-pills a {
-    font-family: 'Courier New', Courier, monospace;
+  font-family: "PT Sans";
 }
-
 
 .nav-pills > li > a.active {
     background-color: #aba1ff !important;
@@ -24,7 +23,7 @@
 
   .button-background {
     background-color: #aba1ff;
-    font-family: 'Courier New'
+    font-family: "PT Sans";
 
   }
    .nav-item > li {
@@ -52,12 +51,14 @@
   .jumbotron {
     display: flex;
     background-image: linear-gradient(125deg, #9499ff, #ed94ff);
+    height: 75rem;
   }
 
-  .jumbotron2 {
-    background-color: grey;
+  .jumbotronv2 {
     display: flex;
+    background-image: linear-gradient(125deg, #9499ff, #ed94ff);
   }
+
 
   .more-is-needed {
     height: 25rem;
@@ -96,12 +97,7 @@
     background-color: #ffb3ee !important
   }
 
-  .footer-color {
-    background-color: #d7cfff;
-    
-  }
 
-  
 
 .needed-padding {
   padding-top: 35rem;
