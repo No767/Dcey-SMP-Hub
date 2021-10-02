@@ -1,48 +1,48 @@
 .body {
-  background-image: linear-gradient(135deg, #ff85fb, #d096ff);
-  background-repeat: no-repeat;
-  padding-bottom: 18rem;
+    background-image: linear-gradient(135deg, #ff85fb, #d096ff);
+    background-repeat: no-repeat;
+    padding-bottom: 18rem;
 }
 
 .butttonpos {
-  text-align: center;
+    text-align: center;
 }
 
 .v4 {
-  padding-top: 35rem;
+    padding-top: 35rem;
 }
 
 body {
-  font-family: "PT Sans", sans-serif;
-  background-image: linear-gradient(125deg, #9499ff, #ed94ff);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  flex-shrink: 2;
+    font-family: "PT Sans", sans-serif;
+    background-image: linear-gradient(125deg, #9499ff, #ed94ff);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    flex-shrink: 2;
 }
 
 .github-sizing {
-  font-size: 28px;
+    font-size: 28px;
 }
 
 .github-color:hover {
-  cursor: pointer;
-  color: rgb(110, 110, 110);
+    cursor: pointer;
+    color: rgb(110, 110, 110);
 }
 
 .github-color {
-  color: rgb(51, 51, 51);
+    color: rgb(51, 51, 51);
 }
 
 .github-spacing {
-  padding-top: 35rem;
+    padding-top: 35rem;
 }
 
 .paddingv5 {
-  padding-top: 5rem;
+    padding-top: 5rem;
 }
 
 footer {
-  padding-top: 40rem;
-  font-family: "PT Sans";
+    padding-top: 40rem;
+    font-family: "PT Sans";
 }
