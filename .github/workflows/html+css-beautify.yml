@@ -26,3 +26,12 @@ jobs:
       - name: Beautify HTML + CSS
         run: |
           yarn prettier --config .prettierrc --write hub/
+      - name: Commit And Push All Changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          default_author: github_actions
+          message: 'Format All HTML + CSS Files'
+          add: 'hub/ --force --all'
+          push: true
+          branch: dev
+          pull: '--no-rebase'
