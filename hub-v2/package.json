@@ -1,0 +1,27 @@
+{
+  "name": "dcey-smp-hub",
+  "version": "1.0.0",
+  "description": "Dcey SMP Hub Source Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/No767/Rin.git"
+  },
+  "keywords": [
+    "start-dev"
+  ],
+  "author": "No767",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/No767/Rin/issues"
+  },
+  "homepage": "https://github.com/No767/Rin#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.1",
+    "tailwindcss": "^2.2.19"
+  }
+}
