@@ -8,6 +8,7 @@
 
 Source code for the Dcey SMP Maps page
 
+### Note that this repo is going to be archived, since there is no need for it any more
 <div align=left>
 
 # License
